@@ -4,3 +4,6 @@ Drop or link SVG file and get it's base64 representation for use in CSS as "back
 Allows you to get directly a css background base64 representation of your SVG file. Either from an url on the web or a local SVG file on your computer.
 
 Preview here: https://elrinth.github.io/svgToBase64/
+
+You can use githubs svg icon as test if you'd like! :)
+https://docs.github.com/assets/images/site/favicon.svg
